@@ -1,4 +1,4 @@
-![Banner](https://github.com/JanBii/ATT-FINAL_PROJECT_ALDAY-MAGNAYE-MENDOZA/blob/main/Banner.jpg)
+
 # Project Title: Promoting Gender Equality And Entrepreneurship among Women in Rural Communities
 
 ## Introduction
