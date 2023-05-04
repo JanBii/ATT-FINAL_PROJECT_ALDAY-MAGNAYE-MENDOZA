@@ -18,7 +18,7 @@
 
 ## Expected Output
 
-* The expected outputs of this project are substantial and include:
+** The expected outputs of this project are substantial and include: **
 
 1. Increased participation of women in entrepreneurial and economic activities.
 2. Creation of job opportunities and promotion of the development of small and medium-sized enterprises.
