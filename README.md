@@ -4,7 +4,7 @@
 **Group Members**
 Alday, Ryan Joseph R.
 Magnaye, John Vincent L.
-Mendoza, Joshua 
+Mendoza, Joshua M.
 
 ## Introduction
   Many developing nations still struggle with gender inequality, especially in rural areas where women face numerous obstacles that prevent them from starting their own businesses and achieving economic empowerment. By encouraging gender equality and entrepreneurship among women in rural communities, this project seeks to address these issues. By doing this, the project hopes to help accomplish the Sustainable Development Goals (SDGs) for economic development and gender equality.
@@ -36,7 +36,7 @@ Mendoza, Joshua
 
 ### References
 
- https://www.un.org/sustainabledevelopment/
- https://sdgs.un.org/2030agenda
- https://www.ilo.org/empent/areas/womens-entrepreneurship-development-wed/lang--en/index.htm
- https://openknowledge.worldbank.org/entities/publication/49b56b1d-e46a-5419-8edc-b74a1f2774a0
+*https://www.un.org/sustainabledevelopment/
+*https://sdgs.un.org/2030agenda
+*https://www.ilo.org/empent/areas/womens-entrepreneurship-development-wed/lang--en/index.htm
+*https://openknowledge.worldbank.org/entities/publication/49b56b1d-e46a-5419-8edc-b74a1f2774a0
