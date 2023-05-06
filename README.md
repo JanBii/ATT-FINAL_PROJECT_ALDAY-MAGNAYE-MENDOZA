@@ -34,9 +34,9 @@ Mendoza, Joshua
 
 ![equality](https://github.com/JanBii/ATT-FINAL_PROJECT_ALDAY-MAGNAYE-MENDOZA/blob/main/equality.jpg)
 
-## References
+### References
 
-1. United Nations. (2021). Sustainable Development Goals. Retrieved from https://www.un.org/sustainabledevelopment/
-2. United Nations. (2015). Transforming our world: the 2030 agenda for sustainable development. https://sdgs.un.org/2030agenda
-3. International Labour Organization. (2019). Women and entrepreneurship: closing the gender gap in access to financial and other resources.
-4. World Bank Group. (2021). Women, business and the law.
+https://www.un.org/sustainabledevelopment/
+https://sdgs.un.org/2030agenda
+https://www.ilo.org/empent/areas/womens-entrepreneurship-development-wed/lang--en/index.htm
+https://openknowledge.worldbank.org/entities/publication/49b56b1d-e46a-5419-8edc-b74a1f2774a0
