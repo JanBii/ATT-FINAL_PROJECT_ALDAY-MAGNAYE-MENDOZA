@@ -26,4 +26,5 @@
 2. Creation of job opportunities and promotion of the development of small and medium-sized enterprises.
 3. Empowerment of women to become leaders and advocates for gender equality.
 4. Community education and outreach programs promoting gender equality and entrepreneurship.
-![equality_](https://github.com/JanBii/ATT-FINAL_PROJECT_ALDAY-MAGNAYE-MENDOZA/blob/main/equality_.jpg)
+
+![equality](https://github.com/JanBii/ATT-FINAL_PROJECT_ALDAY-MAGNAYE-MENDOZA/blob/main/equality.jpg)
