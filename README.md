@@ -4,6 +4,7 @@
 ## Introduction
   Many developing nations still struggle with gender inequality, especially in rural areas where women face numerous obstacles that prevent them from starting their own businesses and achieving economic empowerment. By encouraging gender equality and entrepreneurship among women in rural communities, this project seeks to address these issues. By doing this, the project hopes to help accomplish the Sustainable Development Goals (SDGs) for economic development and gender equality.
 
+![business](https://github.com/JanBii/ATT-FINAL_PROJECT_ALDAY-MAGNAYE-MENDOZA/blob/main/business.png)
 ## Problem Statement
   Women who want to start their own businesses in rural areas must overcome a number of challenges. Obstacles to their mobility and participation in economic activities include limited access to education, training, financial resources, and cultural and social standards. The gender disparity in entrepreneurship and economic empowerment is greatly influenced by these elements.
   
