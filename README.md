@@ -2,6 +2,7 @@
 ![Banner](https://github.com/JanBii/ATT-FINAL_PROJECT_ALDAY-MAGNAYE-MENDOZA/blob/main/Banner.jpg)
 #### This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3204)
 **Group Members**
+
 Alday, Ryan Joseph R.
 Magnaye, John Vincent L.
 Mendoza, Joshua M.
