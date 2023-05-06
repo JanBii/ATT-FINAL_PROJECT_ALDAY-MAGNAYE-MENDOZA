@@ -47,6 +47,7 @@ Mendoza, Joshua M.
 ![equality](https://github.com/JanBii/ATT-FINAL_PROJECT_ALDAY-MAGNAYE-MENDOZA/blob/main/equality.jpg)
 
 <hr>
+
 ### References
 
 * https://www.un.org/sustainabledevelopment/
