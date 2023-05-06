@@ -36,7 +36,7 @@ Mendoza, Joshua M.
 
 ### References
 
-*https://www.un.org/sustainabledevelopment/
-*https://sdgs.un.org/2030agenda
-*https://www.ilo.org/empent/areas/womens-entrepreneurship-development-wed/lang--en/index.htm
-*https://openknowledge.worldbank.org/entities/publication/49b56b1d-e46a-5419-8edc-b74a1f2774a0
+* https://www.un.org/sustainabledevelopment/
+* https://sdgs.un.org/2030agenda
+* https://www.ilo.org/empent/areas/womens-entrepreneurship-development-wed/lang--en/index.htm
+* https://openknowledge.worldbank.org/entities/publication/49b56b1d-e46a-5419-8edc-b74a1f2774a0
