@@ -1,5 +1,10 @@
 # Project Title: Promoting Gender Equality And Entrepreneurship among Women in Rural Communities
 ![Banner](https://github.com/JanBii/ATT-FINAL_PROJECT_ALDAY-MAGNAYE-MENDOZA/blob/main/Banner.jpg)
+#### This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3204)
+### Group Members
+Alday, Ryan Joseph R.
+Magnaye, John Vincent L.
+Mendoza, Joshua 
 
 ## Introduction
   Many developing nations still struggle with gender inequality, especially in rural areas where women face numerous obstacles that prevent them from starting their own businesses and achieving economic empowerment. By encouraging gender equality and entrepreneurship among women in rural communities, this project seeks to address these issues. By doing this, the project hopes to help accomplish the Sustainable Development Goals (SDGs) for economic development and gender equality.
@@ -28,3 +33,10 @@
 4. Community education and outreach programs promoting gender equality and entrepreneurship.
 
 ![equality](https://github.com/JanBii/ATT-FINAL_PROJECT_ALDAY-MAGNAYE-MENDOZA/blob/main/equality.jpg)
+
+## References
+
+1. United Nations. (2021). Sustainable Development Goals. Retrieved from https://www.un.org/sustainabledevelopment/
+2. United Nations. (2015). Transforming our world: the 2030 agenda for sustainable development. https://sdgs.un.org/2030agenda
+3. International Labour Organization. (2019). Women and entrepreneurship: closing the gender gap in access to financial and other resources.
+4. World Bank Group. (2021). Women, business and the law.
