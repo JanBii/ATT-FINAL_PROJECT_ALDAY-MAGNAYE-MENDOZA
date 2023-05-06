@@ -11,6 +11,7 @@
 ## Significance of the Proposed Study
   Due to the enormous difficulties it seeks to address, this initiative is of utmost importance. By giving women access to education, training, and resources to pursue entrepreneurship, it will firstly improve gender equality. Second, through generating employment opportunities and encouraging the establishment of small and medium-sized businesses, it will support the economic development of rural communities. It will also enable women to take on leadership roles in their communities and serve as champions for gender equality.
   
+![process](https://github.com/JanBii/ATT-FINAL_PROJECT_ALDAY-MAGNAYE-MENDOZA/blob/main/process.png)  
 ## Methods
 
 * The project will be carried out in stages. First, a needs analysis will be carried out to determine the particular needs of women in each community. After that, entrepreneurial training programs will be implemented, covering crucial subjects like business planning, money management, marketing, and networking.
