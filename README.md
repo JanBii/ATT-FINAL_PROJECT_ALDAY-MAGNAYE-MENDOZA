@@ -1,4 +1,4 @@
-![HEADER](https://github.com/JanBii/ATT-FINAL_PROJECT_ALDAY-MAGNAYE-MENDOZA/blob/main/HEADER.jfif)
+![header_](https://github.com/JanBii/ATT-FINAL_PROJECT_ALDAY-MAGNAYE-MENDOZA/blob/main/header_.jpg)
 # Project Title: Promoting Gender Equality And Entrepreneurship among Women in Rural Communities
 
 ## Introduction
