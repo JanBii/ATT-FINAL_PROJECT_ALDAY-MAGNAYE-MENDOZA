@@ -23,13 +23,13 @@ Mendoza, Joshua M.
   Despite the increasing focus on inclusive employment policies, Southeast Asia still has a long way to go before it can guarantee opportunities for people in all age groups. It is necessary to have a greater grasp of the connection between age and work because of the region's various demographics and changing labour market characteristics. Age-inclusive practices cannot be developed due to insufficient research and ineffective policy initiatives, which has an adverse effect on job outcomes and the potential of people of all ages. Investigating the obstacles, chances, and solutions that can improve age-inclusive employment in Southeast Asia is therefore urgently needed. Stakeholders can work toward establishing an inclusive workforce that honors and makes use of the abilities and experiences of people from young to old by addressing these gaps.
   
 ## Significance of the Proposed Study
-  The Students
+  **The Students
   
-  The Future Researchers
+  **The Future Researchers
   
-  The Teachers
+  **The Teachers
   
-  The Government Officials
+  **The Government Officials
   
 ![process](https://github.com/JanBii/ATT-FINAL_PROJECT_ALDAY-MAGNAYE-MENDOZA/blob/main/process.png)  
 ## Methods
