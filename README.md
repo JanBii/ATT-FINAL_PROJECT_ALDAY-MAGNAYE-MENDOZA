@@ -20,7 +20,7 @@ Mendoza, Joshua M.
 ## Problem Statement
 ![business](https://github.com/JanBii/ATT-FINAL_PROJECT_ALDAY-MAGNAYE-MENDOZA/blob/main/business.png)
 
-  Women who want to start their own businesses in rural areas must overcome a number of challenges. Obstacles to their mobility and participation in economic activities include limited access to education, training, financial resources, and cultural and social standards. The gender disparity in entrepreneurship and economic empowerment is greatly influenced by these elements.
+  Despite the increasing focus on inclusive employment policies, Southeast Asia still has a long way to go before it can guarantee opportunities for people in all age groups. It is necessary to have a greater grasp of the connection between age and work because of the region's various demographics and changing labour market characteristics. Age-inclusive practices cannot be developed due to insufficient research and ineffective policy initiatives, which has an adverse effect on job outcomes and the potential of people of all ages. Investigating the obstacles, chances, and solutions that can improve age-inclusive employment in Southeast Asia is therefore urgently needed. Stakeholders can work toward establishing an inclusive workforce that honors and makes use of the abilities and experiences of people from young to old by addressing these gaps.
   
 ## Significance of the Proposed Study
   In order to address demographic shifts, inform policy choices, encourage inclusive employment practices, improve workforce planning, support economic growth, facilitate social welfare, and facilitate comparative analysis, it is crucial to conduct research on the relationship between age and employment in Southeast Asia. The results could lead to improvements in hiring procedures and contribute to the general growth and well-being of Southeast Asian people and cultures.
@@ -38,7 +38,7 @@ Mendoza, Joshua M.
 **The expected outputs of this project are substantial and include:**
 
 1. Creation of job opportunities and promotion of the development of small and medium-sized enterprises.
-2. 
+2. Promote an appropriate workload based on the age of the worker
 3. Community education and outreach programs promoting entrepreneurship.
 
 ![equality](https://github.com/JanBii/ATT-FINAL_PROJECT_ALDAY-MAGNAYE-MENDOZA/blob/main/equality.jpg)
