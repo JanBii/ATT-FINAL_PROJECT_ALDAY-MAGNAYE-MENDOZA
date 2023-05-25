@@ -12,7 +12,7 @@ Mendoza, Joshua M.
 ## Introduction
   The project intends to investigate the connection between employment and age in Southeast Asia, with an emphasis on understanding the opportunities and constraints experienced by people in various age groups. The study will offer important insights into the employment patterns and trends in the area by evaluating and interpreting data on workforce dynamics.
   
-  The SDGs related to this topics are:
+  The SDG related to this topics is:
   
 ![sdg 8](https://github.com/JanBii/ATT-FINAL_PROJECT_ALDAY-MAGNAYE-MENDOZA/blob/main/sdg%208.png)
   
