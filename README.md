@@ -55,4 +55,4 @@ Mendoza, Joshua M.
 
 * https://www.un.org/sustainabledevelopment/
 * https://sdgs.un.org/2030agenda
-* https://openknowledge.worldbank.org/entities/publication/49b56b1d-e46a-5419-8edc-b74a1f2774a0
+* https://www.ilo.org/newdelhi/areasofwork/child-labour/legal-framework/WCMS_486151/lang--en/index.htm
