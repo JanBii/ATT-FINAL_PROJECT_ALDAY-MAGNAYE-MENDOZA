@@ -24,8 +24,11 @@ Mendoza, Joshua M.
   
 ## Significance of the Proposed Study
   The Students
+  
   The Future Researchers
+  
   The Teachers
+  
   The Government Officials
   
 ![process](https://github.com/JanBii/ATT-FINAL_PROJECT_ALDAY-MAGNAYE-MENDOZA/blob/main/process.png)  
